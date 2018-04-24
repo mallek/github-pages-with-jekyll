@@ -1,3 +1,11 @@
-# Welcome to my blog
+# Race to the start
 
-I'm glad you are here. I plan to talk about ...
+A blog about the things a technology enthusiest does on a day to day basis.
+
+```
+if(youUnderstand <= me) {
+  console.log('code works');
+}
+```
+
+
